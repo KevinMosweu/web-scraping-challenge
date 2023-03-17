@@ -19,10 +19,9 @@ Create a Beautiful Soup object and use it to extract text elements from the webs
 
 Extract the titles and preview text of the news articles that you scraped. Store the scraping results in Python data structures as follows:
 
-* Store each title-and-preview pair in a Python dictionary. And, give each dictionary two keys: `title` and `preview`.
+*Store each title-and-preview pair in a Python dictionary. And, give each dictionary two keys: `title` and `preview`.
 
-* Store all the dictionaries in a Python list.
+*Store all the dictionaries in a Python list.
 
-* Print the list in your notebook.
+*Print the list in your notebook.
 
-- 
