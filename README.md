@@ -1,6 +1,6 @@
 # web-scraping-challenge
 
-## Description
+# Description
 This project makes use of python to scrape data and information off of webpages in two parts. The first part scrapes titles and previews from a website of news articles centered around Mars. The second part scrapes rows of Mars related data from a table on a website and stores the data in a pandas DataFrame for analysis and visualisation.
 
 ---
